@@ -1,9 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment1_Nguyen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  GeometryGenerator.cpp
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(153,25): warning C4244: 'initializing': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(170,50): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(171,53): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(919,25): warning C4244: 'initializing': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(936,55): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-C:\Users\alexd\Downloads\DirectX-master\Assignment1\Assignment1_101264627_101244409\GeometryGenerator.cpp(937,58): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
-  Assignment1_101264627_101244409.vcxproj -> C:\Users\alexd\Downloads\DirectX-master\Assignment1\Debug\Assignment1_101264627_101244409.exe

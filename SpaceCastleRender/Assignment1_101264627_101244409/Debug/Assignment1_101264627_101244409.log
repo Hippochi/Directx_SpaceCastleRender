@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment1_101264627_101244409.vcxproj, Assignment1_Nguyen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ShapesApp.cpp
+  Assignment1_101264627_101244409.vcxproj -> H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\Debug\SpaceCastleRenderer.exe

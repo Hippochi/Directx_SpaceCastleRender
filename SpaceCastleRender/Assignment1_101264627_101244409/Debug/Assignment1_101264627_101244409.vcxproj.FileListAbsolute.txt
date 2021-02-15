@@ -1,0 +1,3 @@
+C:\Users\alexd\Downloads\DirectX-master\Assignment1_Nguyen\Debug\color.cso
+C:\Users\alexd\Downloads\DirectX-master\Assignment1\Debug\color.cso
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\Debug\color.cso
