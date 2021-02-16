@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment1_101264627_101244409.vcxproj, Assignment1_Nguyen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\Debug\color.cso
+  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\d3dUtil.cpp(30,5): warning C4244: 'argument': conversion from 'std::streamoff' to 'SIZE_T', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\d3dUtil.cpp(70,32): warning C4244: '=': conversion from 'UINT64' to 'LONG_PTR', possible loss of data
+  DDSTextureLoader.cpp
+  FrameResource.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(153,25): warning C4244: 'initializing': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(170,50): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(171,53): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(919,25): warning C4244: 'initializing': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(936,55): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\SpaceCastleRender\GeometryGenerator.cpp(937,58): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+  MathHelper.cpp
+  ShapesApp.cpp
+  Generating Code...
+  SpaceCastleRender.vcxproj -> H:\School work\Graphics\Directx_SpaceCastleRender\SpaceCastleRender\Debug\SpaceCastleRenderer.exe
